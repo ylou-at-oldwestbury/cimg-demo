@@ -4,6 +4,18 @@ CImg is a C++ image manipulation library aiming at utilizing templates to create
 This is the minimal CImg demo shown on the Tutorial section of the website.
 This repository aims to make the example build across macOS and Windows.
 
+## Install CImg
+
+### macOS
+
+In macOS, I recommend [Homebrew](https://brew.sh) for installing libraries like CImg.
+
+To install Homebrew, go to [https://brew.sh](https://brew.sh) and follow the instructions there.
+
+Afterwards, run the following command in Terminal to install CImg.
+
+    brew install cimg
+
 ## Dependencies
 
 This demo utilizes a minimal set of dependencies that CImg requires but does not include.
